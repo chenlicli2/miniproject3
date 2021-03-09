@@ -4,3 +4,7 @@
 [HMM]()
 [RNN]()
 [Visualization]()
+
+file:\\
+shakespeare_hypenation: tokenized(syllable) sonnets including the non-regular lines.\\ 
+shakespeare_hypenation2: excluding the non-regular lines.\\
