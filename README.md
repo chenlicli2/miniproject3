@@ -10,3 +10,8 @@ shakespeare_hypenation: tokenized(syllable) sonnets including the non-regular li
 shakespeare_hypenation2: excluding the non-regular lines.\
 shakespeare_hypenation3: no dash and use '==========' to seperate the sonnets.\
 shakespeare_hypenation4: better syllabification
+
+rhyme_dict.txt: the rhyming pairs\
+rhyme_dict.csv: the csv version of it
+
+
