@@ -7,4 +7,6 @@
 
 file:\
 shakespeare_hypenation: tokenized(syllable) sonnets including the non-regular lines.\
-shakespeare_hypenation2: excluding the non-regular lines.
+shakespeare_hypenation2: excluding the non-regular lines.\
+shakespeare_hypenation3: no dash and use '==========' to seperate the sonnets.\
+shakespeare_hypenation4: better syllabification
