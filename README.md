@@ -2,7 +2,7 @@
 [Preprocessing](https://colab.research.google.com/drive/1JmRmwPtpgTVw8OC3NpM9qpqSq65AUnT_?usp=sharing)\
 [Unsupervised learning]()\
 [HMM]()\
-[RNN]()\
+[RNN](https://colab.research.google.com/drive/11cps66vVBx0mPAa5QD-BA1ISHPbV40Fg?usp=sharing)\
 [Visualization]()
 
 file:\
